@@ -9,7 +9,7 @@ This is Module 4 of 5 of the [12‑week Security Architect Program](https://gith
 * #### Create an AI risk register + use case intake workflow
 
 #### Deliverables:
-* AI Governance Framework Repo + Policy‑as‑Code Library + AI Risk Register: [Link to walkthrough](https://github.com/epatter1/Enterprise_Ready_Governance_Frameworks/blob/main/Enterprise_Ready_Governance_Frameworks_walkthough.md)
+* AI Governance Framework Repo + Policy‑as‑Code Library + AI Risk Register: [Link to walkthrough](https://github.com/epatter1/Enterprise_Ready_Governance_Frameworks/blob/main/Walkthrough.md)
 
 ---
 
